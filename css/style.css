@@ -62,13 +62,9 @@ a {
   padding-right: 15px;
   margin-left: auto;
   margin-right: auto;
-  border: 2px solid green;
-  border-radius: 30px;
-  -webkit-border-radius: 30px;
-  -moz-border-radius: 30px;
-  -ms-border-radius: 30px;
-  -o-border-radius: 30px;
+
 }
+
 
 section {
     padding-top: 60px;
@@ -154,3 +150,5 @@ footer p {
   font-size: 14px;
   text-align: center;
 }
+
+

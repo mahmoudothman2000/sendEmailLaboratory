@@ -44,6 +44,7 @@ html {
 body {
   font-family: "Open Sans", sans-serif;
   font-family: 'Work Sans', sans-serif;
+  /* background-color: #ebe9e9; */
 }
 
 ul {
@@ -140,4 +141,10 @@ input[type="submit"] {
   background-color: #4460AA;
   color: #fff;
   border: none
+}
+
+
+footer p {
+  font-size: 14px;
+  text-align: center;
 }
